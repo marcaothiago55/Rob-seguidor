@@ -30,3 +30,5 @@ Apesar dos desafios, o carrinho seguidor de linha resultante foi uma conquista i
 
 Conclusão:
 O carrinho seguidor de linha desenvolvido pelo professor Thiago para a aula de robótica é um projeto envolvente e educativo que exemplifica como a tecnologia pode ser aplicada de forma prática no contexto da educação. Com a combinação de componentes cuidadosamente escolhidos e desafios significativos, os alunos obtiveram uma experiência enriquecedora que os capacitou a explorar o emocionante mundo da robótica e suas aplicações no mundo real.
+
+Referencias https://blog.eletrogate.com/robo-seguidor-de-linha-tutorial-completo/ onde retirei todo material.
